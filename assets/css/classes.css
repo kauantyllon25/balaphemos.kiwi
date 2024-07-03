@@ -1,0 +1,105 @@
+.main-bg {
+  background-image: url('../img/Design\ sem\ nome\(1\).png');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+.b2-bg {
+  background-image: url('../img/Black-Goku-4K-Wallpaper-HD.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+.b3-bg {
+  background-image: url('../img/wls.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+
+
+
+.b4-bg {
+  background-image: url('../img/asphemous.webp');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+.b6-bg {
+  background-image: url('../img/img.jpeg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+
+.b5-bg {
+  background-image: url('../img/thes.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+.b7-bg {
+  background-image: url('../img/jx\ ba.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+
+.b8-bg {
+  background-image: url('../img/torta.png');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+
+.b9-bg {
+  background-image: url('../img/jh.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+.b10-bg {
+  background-image: url('../img/');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+.b11-bg {
+  background-image: url('../img/');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+} 
+
+.black-bg{
+  background: var(--black-color);
+}
+
+.white-bg {
+  background: var(--white-color);
+}
+
+.main-content {
+  max-width: 120rem;
+  /* 120rem = 1200px */
+  margin: 0 auto;
+  /* padding: 3rem; */
+  padding: 10rem var(--gap);
+  /* correção */
+}
+
+.section {
+  min-height: 100vh;
+  /* parte 3/4 */
+  /* color: var(--primary-color); */
+}
+
+/* parte 3 */
+.menu-spacing {
+  height: 6.5rem;
+}
+
+body .full-width{
+  width: 100%;
+  flex: 1 1 100%;
+}

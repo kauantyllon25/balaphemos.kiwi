@@ -1,0 +1,39 @@
+:root {
+    --primary-color: #045ee6;
+    --black-color: #000000;
+    --white-color: #ffffff;
+    --gap: 3rem;
+    --light-gray-color: #000000;
+    --secondary-color: rgb(24, 0, 119);
+}
+
+
+
+
+/* Certifique-se de incluir isso no seu arquivo CSS */
+
+.nav-button {
+    color: rgb(255, 252, 252); /* Cor do texto dos botões */
+    background-color: rgb(0, 0, 0); /* Cor de fundo dos botões */
+    text-align: center;
+    padding: 10px 20px; /* Ajuste o padding conforme necessário */
+    text-decoration: none;
+    transition: color 0.3s, background-color 0.3s, border-radius 0.3s;
+    border: 2px solid rgba(0, 0, 0, 0.788); /* Borda dos botões */
+    border-radius: 10px; /* Cantos arredondados */
+    display: inline-block;
+}
+
+.nav-button:hover {
+    color: rgb(0, 0, 0); /* Cor do texto ao passar o mouse */
+    background-color: rgb(255, 255, 255); /* Cor de fundo ao passar o mouse */
+    border-color: rgb(0, 0, 0); /* Cor da borda ao passar o mouse */
+}
+
+/* Certifique-se de que o .menu b3-bg tenha um background que contraste com os botões */
+.b3-bg {
+    background-color: #000000; /* Exemplo de cor de fundo */
+}
+
+
+
